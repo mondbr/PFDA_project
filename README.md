@@ -12,9 +12,9 @@ It contains a project that demonstrates data analysis of the wind speed in one o
 
 In this project, I aim to present my research abilities by identifying and addressing gaps in the dataset, substituting missing data with alternative values using various techniques. I use multiple methods to analyze the available data, ensuring a comprehensive approach.
 
-The goal of the project is to prepare and analyse wind speed data while assessing the wind power potential for possibilities of a wind farm in selected area. This should demonstrate my ability to apply advanced analysis methods that might be helpful in my future work as data analyst. 
+The goal of the project is to prepare and analyse wind speed data while assessing the wind power potential for possibilities of a wind farm in selected area. This should demonstrate my ability to apply advanced analysis methods that might be helpful in my future work as data analyst.
 
-This project demonstrates my ability to clean, preprocess, and analyse large datasets, while also addressing real-world issues like missing or incomplete data. Additionally using of Python and various libraries such as Pandas, Matplotlib, and Scikit-learn shows proficiency in data analysis and machine learning.
+This project demonstrates my ability to clean, preprocess, and analyse large datasets, while also addressing real-world issues like missing or incomplete data. Using of Python and various libraries such as Pandas, Matplotlib, and Scikit-learn shows what I learnt throughout this module in data analysis and my attempts in machine learning.
 
 ## Get Started
 
